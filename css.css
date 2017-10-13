@@ -1,0 +1,23 @@
+.beam{
+	width: 1600px;
+	height: 20px;
+	background: red;
+    left: -400px;
+    top: 290px;
+}
+.bg{
+	width: 800px;
+	height: 600px;
+	background: #f2f2f2;
+	overflow: hidden;
+	
+}
+div{
+	position: absolute;
+
+}
+body {
+	margin: 0;
+    padding: 0;
+
+}
